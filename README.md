@@ -28,7 +28,8 @@
 
 2. 参考原项目的软件安装步骤完成安装后，运行以下代码：
     ```bash
-   python ./example/gui_control/gui_control_add_display&interaction.py
+   python ./example/gui_control/gui_control_display_interaction.py
+
     ```
 
 ### 注意事项
