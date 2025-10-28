@@ -26,7 +26,13 @@
 1. 下载并安装驱动程序（Windows 用户）：  
    [Peak-System 驱动下载页面](https://peak-system.com.cn/driver/)  
 
-2. 参考原项目的软件安装步骤完成安装后，运行以下代码：
+2. 安装依赖：
+    ```bash
+   pip3 install -r requirements.txt
+
+    ```
+
+3. 参运行以下代码：
     ```bash
    python ./example/gui_control/gui_control_display_interaction.py
 
