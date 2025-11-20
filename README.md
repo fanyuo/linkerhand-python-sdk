@@ -32,7 +32,7 @@
 
     ```
 
-3. 参运行以下代码：
+3. 运行以下代码：
     ```bash
    python ./example/gui_control/gui_control_display_interaction.py
 
